@@ -44,7 +44,7 @@ O projeto reforça habilidades práticas em Linux, automação com crontab, cria
 
 - [Etapa 2 - Instalação e Configuração do Servidor Web](#etapa-2---instalação-e-configuração-do-servidor-web)
 
-- [Etapa 3 - Script de Monitoramento + Webhook](#etapa-3---script-de-monitoramento-+-webhook)
+- [Etapa 3 - Script de Monitoramento e Webhook](#etapa-3---script-de-monitoramento-e-webhook)
 
 - [Etapa 4 - Teste e Validação da Solução](#etapa-4---teste-e-validação-da-solução)
 
@@ -155,7 +155,7 @@ sudo systemctl restart nginx
 
 ![Print da página personalizada Nginx](prints/04-página-personalizada-nginx.png)
 
-# Etapa 3 - Script de Monitoramento + Webhook
+# Etapa 3 - Script de Monitoramento e Webhook
 
 Nessa etapa foi criado um script em Bash que monitora se o site hospedado no servidor Nginx está disponível. O script é executado a cada 1 minuto usando o agendador `crontab`. Caso o site esteja fora do ar, o script envia uma notificação via webhook para um canal no Discord e registra os eventos em um arquivo de log.
 
