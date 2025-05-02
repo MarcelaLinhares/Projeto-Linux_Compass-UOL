@@ -40,15 +40,15 @@ O projeto reforça habilidades práticas em Linux, automação com crontab, cria
 
 # Etapas
 
-- [Etapa 1 - Configuração do Ambiente](etapa-1---configuração-do-ambiente)
+- [Etapa 1 - Configuração do Ambiente](#etapa-1---configuração-do-ambiente)
 
-- [Etapa 2 - Instalação e Configuração do Servidor Web](etapa-2---instalação-e-configuração-do-servidor-web)
+- [Etapa 2 - Instalação e Configuração do Servidor Web](#etapa-2---instalação-e-configuração-do-servidor-web)
 
-- [Etapa 3 - Script de Monitoramento + Webhook](etapa-3---script-de-monitoramento-+-webhook)
+- [Etapa 3 - Script de Monitoramento + Webhook](#etapa-3---script-de-monitoramento-+-webhook)
 
-- [Etapa 4 - Teste e Validação da Solução](etapa-4---teste-e-validação-da-solução)
+- [Etapa 4 - Teste e Validação da Solução](#etapa-4---teste-e-validação-da-solução)
 
-- [Etapa Final - Conclusão](etapa-final---conclusão)
+- [Etapa Final - Conclusão](#etapa-final---conclusão)
 
 # Etapa 1 - Configuração do Ambiente
 
